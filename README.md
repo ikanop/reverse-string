@@ -16,7 +16,7 @@ src
 │   └── react.svg
 ├── components
 │   ├── containedButton.jsx
-│   └── header.jsx
+│   └── palindromeCheck.jsx
 ├── index.css
 ├── main.jsx
 ├── pages
